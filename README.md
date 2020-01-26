@@ -2,9 +2,9 @@
 18 Color themes of the Notepad2.
 
 ## Usage
-Download the ZIP (green button) or individual RAW `.ini` files.  Please use import function in color setting. Or, Place this `.ini` files into `themes` folder with Notepad2 not running. 
+Download the ZIP (green button) or individual RAW `.ini` files.  Please use import function in color setting.
 
-配色設定のインポートを使用してください。ZIP (緑のボタン) か個々の ini ファイルの RAW をダウンロードする。または Notepad2 が終了した状態で `ini` ファイルを`themes` フォルダに入れる。
+配色設定のインポートを使用してください。ZIP (緑のボタン) か個々の ini ファイルの RAW をダウンロードする。
 
 ## Themes sample
 - [Solarized](https://github.com/altercation/solarized#solarized)
