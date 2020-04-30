@@ -1,5 +1,5 @@
 # Notepad2 Color Theme
-18 Color themes of the [Notepad2](https://github.com/zufuliu/notepad2).
+19 Color themes of the [Notepad2](https://github.com/zufuliu/notepad2).
 
 ## Usage
 Download the ZIP (green button) or individual RAW `.ini` files.  Please use import function in color setting.
