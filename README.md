@@ -2,9 +2,12 @@
 19 Color themes of the [Notepad2](https://github.com/zufuliu/notepad2).
 
 ## Usage
-Download the ZIP (green button) or individual RAW `.ini` files.  Please use import function in color setting.
+Download the ZIP (green button) or individual RAW `.ini` files.  Please use import function in color setting. Or
 
-配色設定のインポートを使用してください。ZIP (緑のボタン) か個々の ini ファイルの RAW をダウンロードする。
+In Notepad2.ini, set the path:
+[Notepad2]
+;DarkTheme.ini=%LOCALAPPDATA%\Notepad2\Notepad2 DarkTheme.ini
+配色設定のインポートか Notepad2.ini 中でパスを指定します。ZIP (緑のボタン) か個々の ini ファイルの RAW からダウンロードできます。
 
 ## Themes sample
 - [Absinthe](https://github.com/maboroshin/Absinthe.color) (My original theme)
