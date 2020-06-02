@@ -7,6 +7,7 @@ Download the ZIP (green button) or individual RAW `.ini` files.  Please use impo
 In Notepad2.ini, set the path:
 [Notepad2]
 ;DarkTheme.ini=%LOCALAPPDATA%\Notepad2\Notepad2 DarkTheme.ini
+
 配色設定のインポートか Notepad2.ini 中でパスを指定します。ZIP (緑のボタン) か個々の ini ファイルの RAW からダウンロードできます。
 
 ## Themes sample
